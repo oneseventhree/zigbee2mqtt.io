@@ -25,6 +25,8 @@ pageClass: device-page
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 ## Notes
 
+### Battery Type
+Uses a CR2032 battery
 
 ### Actions
 The `triple`, `quadruple`, `hold` and `release` is not supported by all versions of this device.
